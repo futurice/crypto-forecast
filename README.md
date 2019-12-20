@@ -1,5 +1,4 @@
 # crypto-forecast
-# crypto_forecast
 
 # Topic
 Predict cryptocurrency trend based on sentiment analysis of discussions on forums and other data.
