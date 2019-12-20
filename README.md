@@ -47,9 +47,14 @@ b. Define features and extract features from data, e.g. column(s) with positive/
 c. Train and validate model TBD
 
 ### Resources<a name="resources"></a>  
+[Data science session](https://docs.google.com/presentation/d/1JYExPam1Foj0-2NwL4GtsBlHrEeqeVAf7nsfvbGzHhs/edit?usp=sharing)
+
 [Bitcoin prediction project 1](https://hackernoon.com/how-i-created-a-bitcoin-trading-algorithm-with-a-29-return-rate-using-sentiment-analysis-b0db0e777f4)  
+
 [Bitcoin prediction project 2](https://hackernoon.com/forecasting-bitcoin-price-with-crowdsourced-algorithms-part-ii-753f9ac99d07)  
+
 [Arbitrage](https://towardsdatascience.com/cryptocurrency-arbitrage-how-to-profit-from-it-e2d7bf805fde)  
+
 [Social impact](https://hackernoon.com/blockchain-for-social-good-reviewing-top-use-cases-in-2018-85b6b36f4c3d)
 
 ### Ethical guidelines <a name="ethics"></a>
